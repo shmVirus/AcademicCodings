@@ -1,0 +1,53 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    margin: auto;
+}
+
+.title {
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+    margin-bottom: 30px;
+}
+
+.wrapper {
+    background-color: lightgrey;
+    max-width: 500px;
+    margin: auto;
+    padding: 50px;
+    border: 2px solid black;
+}
+
+label {
+    width: 100px;
+    float: left;
+}
+
+.inputField {
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid black;
+}
+
+ .inputFieldTwo {
+    margin: 10px;
+    padding: 5px;
+    border: 2px solid black;
+}
+
+.inputFieldThree {
+    margin: 10px;
+    padding: 5px;
+    border: 2px solid black;
+} 
+
+.btn {
+    background-color: green;
+    color: white;
+    height: 30px;
+    width: 200px;
+}

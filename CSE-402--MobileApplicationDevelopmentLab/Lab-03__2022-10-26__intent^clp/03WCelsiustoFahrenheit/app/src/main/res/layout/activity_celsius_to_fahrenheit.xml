@@ -1,0 +1,70 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res−auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:textColor="@color/blue"
+    android:background="@color/teal"
+    tools:context=".CelsiusToFahrenheit"
+    tools:ignore="ResAuto">
+
+    <TextView
+        android:id="@+id/converterPage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/converterTitle"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textColor="@color/blue"
+        android:layout_marginTop="40dp"/>
+
+    <EditText
+        android:id="@+id/celsius"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="numberDecimal"
+        android:hint="@string/celsius"
+        android:textColor="@color/blue"
+        android:textSize="28sp"
+        android:layout_marginTop="30dp"/>
+
+    <TextView
+        android:id="@+id/resultInFahrenheit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/blue"
+        android:text="@string/degrees"
+        android:textAlignment="center"
+        android:textSize="30sp"/>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+
+        <Button
+            android:id="@+id/resultsButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/celsiusToFahrenheit"
+            android:textColor="@color/blue"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="10dp" />
+
+        <Button
+            android:id="@+id/logoutButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/logoutButton"
+            android:background="@color/purple"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="10dp" />
+    </LinearLayout>
+</LinearLayout>

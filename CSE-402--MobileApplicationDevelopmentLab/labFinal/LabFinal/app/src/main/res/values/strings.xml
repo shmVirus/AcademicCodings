@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab Final</string>
+    <string name="hintLoginUserName">username</string>
+    <string name="hintLoginPassword">password</string>
+    <string name="hintUserName">username, e.g. tux@tuta.io</string>
+    <string name="hintPassword">password, e.g. coolPenguin</string>
+    <string name="hintMobile">mobile number e.g. 01512345678</string>
+</resources>

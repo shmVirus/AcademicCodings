@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.body {
+    margin: auto;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    font-family: "Gill Sans", "Gill Sans MT", "Calibri", "Trebuchet MS", "sans-serif";
+}
+
+.description {
+    font-size: 20px;
+    margin: auto;
+    padding: 5px;
+    color: red;
+}
+
+.main {
+    background-color: lightgrey;
+    max-width: 1000px;
+    margin: 100px auto;
+    max-height: 1000px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+        rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    text-align: center;
+}
+
+label {
+    margin: 10px;
+    padding: 10px;
+}
+
+.inputFieldOne {
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+}
+
+.inputFieldTwo {
+    margin: 5px;
+    padding: 5px;
+}
+
+.inputFieldThree {
+    margin: 10px;
+    padding: 10px;
+}
+
+.inputFieldFour {
+    margin: 5px;
+    padding: 5px;
+}
+
+.inputFieldFive {
+    margin: 10px;
+    padding: 10px;
+}

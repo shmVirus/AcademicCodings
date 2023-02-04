@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">"LR1 - Login Page"</string>
+    <string name="authorMessage">"Developed by @shmVirus"</string>
+
+    <string name="loginPageTitle">"Log-In"</string>
+
+    <string name="nameTextView">"Name: "</string>
+    <string name="nameEditText">enter you name i.e. Sabbir</string>
+
+    <string name="emailTextView">Email: </string>
+    <string name="emailEditText">enter you email i.e. sabbir.tuqcx@aleeas.com</string>
+
+    <string name="passwordTextView">Password: </string>
+    <string name="passwordEditText">enter you email i.e. coolSabbir</string>
+
+    <string name="loginButton">Login</string>
+    <string name="cancelButton">Cancel</string>
+    <string name="resetButton">Reset</string>
+
+
+
+    <string name="homePageTitle">"Home"</string>
+
+    <string name="logoutButton">LogOut</string>
+    <string name="updateButton">Update</string>
+
+
+
+    <string name="updateInfoPageTitle">"Update-Info"</string>
+
+    <string name="updateInfoButton">UpdateInfo</string>
+    <string name="backButton">Back</string>
+
+
+    <string name="converterPageBar">Celsius To Fahrenheit</string>
+    <string name="converterTitle">Celsius To Fahrenheit by @shmVirus</string>
+    <string name="celsius">Temperature in Celsius</string>
+    <string name="celsiusToFahrenheit">Convert to Fahrenheit</string>
+    <string name="degrees">’?’ degrees</string>
+</resources>

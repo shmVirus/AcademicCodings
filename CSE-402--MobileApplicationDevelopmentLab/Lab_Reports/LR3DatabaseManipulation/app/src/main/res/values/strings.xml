@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LR3 - DatabaseManipulation</string>
+    <string name="hintName">enter your name, i.g Tux</string>
+    <string name="hintEmail">enter your email, i.g tux@floss.io</string>
+    <string name="hintMobile">enter your mobile, i.g 01555555555</string>
+    <string name="hintPassword">enter your password, i.g coolPenguin</string>
+</resources>

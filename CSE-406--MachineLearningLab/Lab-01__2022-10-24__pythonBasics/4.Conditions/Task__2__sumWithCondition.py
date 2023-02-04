@@ -1,0 +1,6 @@
+a = int(input("First Number: "))
+b = int(input("Second Number: "))
+c = int(input("Third Number: "))
+sum = ( (3*(a+b+c)) if (a == b and b == c) else (a+b+c))
+print("Summation: " + str(sum) + "; and it is a ", end="")
+print("ODD" if (sum % 2 != 0) else "EVEN")

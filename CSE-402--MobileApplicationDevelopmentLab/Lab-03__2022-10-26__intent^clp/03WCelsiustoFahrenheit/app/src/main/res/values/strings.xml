@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">03W - Celsius to Fahrenheit</string>
+    <string name="loginPageBar">Login Page</string>
+    <string name="loginPageTitle">Login Page by @shmVirus</string>
+    <string name="name">name</string>
+    <string name="email">example@mail.io</string>
+    <string name="password">password</string>
+    <string name="passwordConfirm">re-password</string>
+    <string name="loginButton">Log In</string>
+    <string name="cancelButton">Cancel</string>
+
+    <string name="logoutButton">Log Out</string>
+    <string name="converterPageBar">Celsius To Fahrenheit</string>
+    <string name="converterTitle">Celsius To Fahrenheit by @shmVirus</string>
+    <string name="celsius">Temperature in Celsius</string>
+    <string name="celsiusToFahrenheit">Convert to Fahrenheit</string>
+    <string name="degrees">’?’ degrees</string>
+</resources>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Learning_RelativeLayout">
+
+
+    <TextView
+        android:id="@+id/ET1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="false"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="false"
+        android:text="Relative Layout!!"
+        android:textColor="@android:color/holo_blue_dark"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnadd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ET1"
+        android:layout_marginLeft="100dp"
+        android:text="+" />
+
+    <Button
+        android:id="@+id/btnSub"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ET1"
+        android:layout_marginLeft="20dp"
+        android:layout_toRightOf="@+id/btnadd"
+        android:text="−" />
+
+    <Button
+        android:id="@+id/btnMul"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnadd"
+        android:layout_alignStart="@+id/btnadd"
+        android:text="*" />
+
+    <Button
+        android:id="@+id/btnDiv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnSub"
+        android:layout_alignStart="@+id/btnSub"
+        android:layout_toRightOf="@+id/btnMul"
+        android:text="/" />
+
+    <Button
+        android:id="@+id/btnEqual"
+        android:layout_width="27dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnMul"
+        android:layout_alignStart="@+id/btnMul"
+        android:layout_alignEnd="@+id/btnDiv"
+        android:layout_marginStart="84dp"
+        android:layout_marginEnd="85dp"
+        android:text="=" />
+</RelativeLayout>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">03P - Temperature Converter</string>
+    <string name="log_in_page">Log−in Page</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_name_here">Enter Name Here, i.g. shmVirus</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_password_here">Enter Password Here, i.g. coolSabbir</string>
+    <string name="ok">Ok</string>
+    <string name="reset">Reset</string>
+    <string name="temperature_converter">Temperature Converter</string>
+    <string name="enter_temperature">Enter Temperature</string>
+    <string name="celsius_to_fahrenheit">Celsius to fahrenheit</string>
+    <string name="degrees">’?’ degrees</string>
+</resources>
