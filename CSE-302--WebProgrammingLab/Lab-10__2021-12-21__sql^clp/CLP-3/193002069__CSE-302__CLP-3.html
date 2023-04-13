@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>CLP-3 by @shmVirus__193002069</title>
+    <style>
+        body {
+            background-color: rgb(50, 180, 180);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="inputBox">
+        <input type="number" name="" id="numberOne">
+        <input type="number" name="" id="numberTwo">
+        <button onclick="myFunction()">Submit</button>
+    </div>
+    <div class="resultBox">
+        <p id="add"></p>
+        <p id="sub"></p>
+        <p id="div"></p>
+        <p id="mul"></p>
+        <p id="rem"></p>
+    </div>
+    <script>
+        function myFunction() {
+            var a = parseInt(document.getElementById("numberOne").value);
+            var b = parseInt(document.getElementById("numberTwo").value);
+            
+            document.getElementById("add").innerHTML = "Addition: " + (a + b);
+            document.getElementById("sub").innerHTML = "Subtraction: " + (a - b);
+            document.getElementById("div").innerHTML = "Division: " + (a / b);
+            document.getElementById("mul").innerHTML = "Multiplication: " + (a * b);
+            document.getElementById("rem").innerHTML = "Remainder: " + (a % b);
+        }
+    </script>
+</body>
+
+</html>

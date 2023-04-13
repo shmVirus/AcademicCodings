@@ -1,0 +1,144 @@
+Age,AcademicLevel,Location,AngerResponse,AngerVanish,DrugConnection,FrustrationResponse,UnexpectedSituationResponse,LikesChallenges,SleepTrouble,FrustrationToleranceLevel
+23,Hons / or equivalent,Shylet,"Threatening, Yelling, Shouting",0-10,No,Hopeless,Accept the Situation and Stay Normal,Yes,Yes,3
+20,High School,Rajshahi,Yelling,30+,No,Hopeless,You loss your calmness,No,Yes,4
+30,Masters / or equivalent,Khulna,Yelling,10-20,No,Determined to better next time,You loss your calmness,Yes,Yes,2
+23,Hons / or equivalent,Dhaka,Stay Normal,10-20,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,No,4
+20,Hons / or equivalent,Khulna,"Stay Normal, Yelling, Shouting",10-20,Yes,Sad or Anxious,Accept the Situation and Stay Normal,No,Yes,1
+18,High School,Dhaka,Stay Normal,0-10,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,No,3
+23,Hons / or equivalent,Dhaka,"Threatening, Stay Normal, Hurting Yourself",0-10,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,Yes,5
+18,Intermediate,Khulna,Yelling,10-20,No,Sad or Anxious,Accept the Situation and Stay Normal,Yes,No,3
+22,Hons / or equivalent,Dhaka,Stay Normal,30+,No,Determined to better next time,Accept the Situation and Stay Normal,No,No,3
+17,High School,Dhaka,Stay Normal,0-10,Yes,Determined to better next time,Accept the Situation and Stay Normal,No,Yes,3
+24,Hons / or equivalent,Dhaka,Stay Normal,10-20,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,No,4
+19,Intermediate,Dhaka,Shouting,20-30,No,Sad or Anxious,Accept the Situation and Stay Normal,Yes,No,4
+23,Hons / or equivalent,Dhaka,Yelling,20-30,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,Yes,5
+25,Hons / or equivalent,Dhaka,Stay Normal,0-10,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,No,5
+26,Masters / or equivalent,Chattogram,Stay Normal,0-10,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,No,4
+21,Hons / or equivalent,Dhaka,Yelling,0-10,No,Hopeless,You loss your calmness,Yes,No,2
+24,Intermediate,Dhaka,Stay Normal,30+,No,Hopeless,You loss your calmness,No,No,1
+18,Intermediate,Dhaka,Stay Normal,0-10,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,No,4
+18,High School,Dhaka,"Abusing people around you, Yelling, Shouting",0-10,No,Hopeless,You loss your calmness,No,No,2
+22,Hons / or equivalent,Dhaka,Breaking Stuffs / Property Damage,30+,No,Sad or Anxious,Accept the Situation and Stay Normal,Yes,Yes,3
+36,Masters / or equivalent,Khulna,"Threatening, Abusing people around you, Yelling, Shouting, Hurting Yourself",20-30,No,Sad or Anxious,You loss your calmness,Yes,No,4
+24,Hons / or equivalent,Dhaka,"Stay Normal, Shouting",10-20,Yes,Sad or Anxious,You loss your calmness,No,Yes,3
+19,Intermediate,Dhaka,Stay Normal,10-20,No,Sad or Anxious,You loss your calmness,Yes,No,4
+18,High School,Barisal,"Yelling, Shouting",10-20,No,Determined to better next time,You loss your calmness,Yes,No,3
+24,Hons / or equivalent,Dhaka,"Threatening, Breaking Stuffs / Prpperty Damage, Abusing people around you, Yelling, Shouting",30+,No,Sad or Anxious,You loss your calmness,Yes,Yes,2
+28,Masters / or equivalent,Dhaka,Shouting,10-20,No,Sad or Anxious,You loss your calmness,Yes,Yes,3
+20,Hons / or equivalent,Dhaka,"Yelling, Shouting",30+,No,Determined to better next time,You loss your calmness,No,No,3
+25,Hons / or equivalent,Dhaka,"Breaking Stuffs / Prpperty Damage, Hurting Yourself",20-30,No,Determined to better next time,You loss your calmness,Yes,No,3
+19,Intermediate,Dhaka,Shouting,0-10,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,No,3
+22,Hons / or equivalent,Dhaka,Stay Normal,0-10,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,No,4
+21,Hons / or equivalent,Dhaka,"Threatening, Abusing people around you, Yelling, Shouting",10-20,No,Hopeless,You loss your calmness,No,Yes,1
+24,Hons / or equivalent,Dhaka,"Yelling, Shouting",30+,No,Hopeless,You loss your calmness,No,No,4
+18,Intermediate,Dhaka,"Yelling, Shouting",10-20,No,Hopeless,Accept the Situation and Stay Normal,No,No,4
+20,Intermediate,Dhaka,"Yelling, Shouting",30+,No,Sad or Anxious,Accept the Situation and Stay Normal,Yes,Yes,5
+21,Hons / or equivalent,Dhaka,Stay Normal,0-10,No,Sad or Anxious,You loss your calmness,No,Yes,5
+30,Masters / or equivalent,Dhaka,"Abusing people around you, Yelling, Shouting",30+,Yes,Hopeless,You loss your calmness,Yes,No,1
+23,Hons / or equivalent,Dhaka,"Threatening, Breaking Stuffs / Prpperty Damage, Abusing people around you",10-20,No,Determined to better next time,Accept the Situation and Stay Normal,No,Yes,3
+20,Hons / or equivalent,Dhaka,Stay Normal,0-10,No,Hopeless,You loss your calmness,No,No,3
+22,Hons / or equivalent,Dhaka,Shouting,20-30,No,Sad or Anxious,You loss your calmness,No,No,3
+23,Hons / or equivalent,Rajshahi,Stay Normal,0-10,No,Sad or Anxious,Accept the Situation and Stay Normal,No,No,2
+22,Hons / or equivalent,Dhaka,Stay Normal,10-20,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,No,1
+23,Hons / or equivalent,Dhaka,Stay Normal,0-10,No,Hopeless,You loss your calmness,Yes,Yes,5
+20,Intermediate,Rajshahi,Yelling,10-20,No,Hopeless,Accept the Situation and Stay Normal,No,No,3
+19,Intermediate,Rajshahi,Abusing people around you,0-10,No,Sad or Anxious,You loss your calmness,Yes,Yes,3
+15,Intermediate,Chattogram,Stay Normal,0-10,No,Sad or Anxious,You loss your calmness,Yes,No,4
+22,Intermediate,Dhaka,Stay Normal,10-20,No,Sad or Anxious,You loss your calmness,Yes,No,4
+18,Intermediate,Dhaka,Stay Normal,30+,No,Hopeless,Accept the Situation and Stay Normal,Yes,No,4
+22,Hons / or equivalent,Barisal,Stay Normal,30+,No,Sad or Anxious,Accept the Situation and Stay Normal,Yes,Yes,3
+23,Hons / or equivalent,Dhaka,"Threatening, Shouting, Hurting Yourself",30+,No,Determined to better next time,Accept the Situation and Stay Normal,No,Yes,4
+18,Intermediate,Dhaka,Shouting,0-10,No,Sad or Anxious,Accept the Situation and Stay Normal,Yes,No,3
+18,Intermediate,Dhaka,Stay Normal,0-10,No,Sad or Anxious,Accept the Situation and Stay Normal,No,No,1
+25,Hons / or equivalent,Dhaka,Abusing people around you,30+,No,Hopeless,You loss your calmness,No,No,2
+25,Masters / or equivalent,Rajshahi,"Stay Normal, Shouting",20-30,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,No,4
+22,Hons / or equivalent,Dhaka,Abusing people around you,10-20,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,No,2
+23,Hons / or equivalent,Rangpur,"Threatening, Breaking Stuffs / Prpperty Damage",10-20,No,Sad or Anxious,Accept the Situation and Stay Normal,Yes,No,1
+18,Hons / or equivalent,Dhaka,Stay Normal,10-20,No,Sad or Anxious,You loss your calmness,No,No,3
+23,Hons / or equivalent,Khulna,Yelling,10-20,No,Sad or Anxious,Accept the Situation and Stay Normal,Yes,Yes,4
+24,Hons / or equivalent,Dhaka,"Threatening, Shouting",10-20,No,Determined to better next time,You loss your calmness,Yes,Yes,4
+24,Hons / or equivalent,Chattogram,Stay Normal,0-10,No,Sad or Anxious,You loss your calmness,No,Yes,3
+22,Hons / or equivalent,Rajshahi,"Shouting, Hurting Yourself",0-10,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,No,3
+24,Hons / or equivalent,Dhaka,Shouting,30+,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,No,1
+23,Hons / or equivalent,Dhaka,"Stay Normal, Shouting",30+,No,Hopeless,You loss your calmness,No,No,5
+18,Hons / or equivalent,Dhaka,Yelling,10-20,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,Yes,4
+30,Masters / or equivalent,Dhaka,Shouting,20-30,No,Sad or Anxious,You loss your calmness,Yes,No,4
+19,Intermediate,Chattogram,"Abusing people around you, Shouting, Hurting Yourself",10-20,No,Sad or Anxious,You loss your calmness,No,Yes,1
+23,Hons / or equivalent,Dhaka,Stay Normal,0-10,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,No,4
+20,Hons / or equivalent,Dhaka,Stay Normal,20-30,No,Hopeless,You loss your calmness,No,No,3
+20,Hons / or equivalent,Dhaka,Hurting Yourself,30+,No,Hopeless,You loss your calmness,Yes,Yes,5
+22,Hons / or equivalent,Dhaka,"Threatening, Breaking Stuffs / Prpperty Damage, Stay Normal, Yelling, Shouting",30+,No,Sad or Anxious,You loss your calmness,Yes,No,2
+21,Hons / or equivalent,Dhaka,"Abusing people around you, Yelling, Shouting",20-30,No,Sad or Anxious,You loss your calmness,No,No,1
+21,Hons / or equivalent,Khulna,Stay Normal,0-10,No,Determined to better next time,Accept the Situation and Stay Normal,No,No,1
+22,Hons / or equivalent,Shylet,Stay Normal,20-30,No,Sad or Anxious,Accept the Situation and Stay Normal,No,No,3
+22,Hons / or equivalent,Dhaka,"Threatening, Abusing people around you, Yelling, Shouting",10-20,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,No,4
+20,Intermediate,Dhaka,Stay Normal,30+,No,Sad or Anxious,You loss your calmness,No,Yes,3
+18,Intermediate,Dhaka,"Yelling, Shouting",20-30,No,Hopeless,You loss your calmness,Yes,Yes,3
+19,High School,Dhaka,Shouting,0-10,No,Sad or Anxious,You loss your calmness,Yes,No,3
+20,Hons / or equivalent,Dhaka,Stay Normal,20-30,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,No,3
+23,Hons / or equivalent,Rajshahi,"Breaking Stuffs / Prpperty Damage, Stay Normal, Hurting Yourself",30+,No,Sad or Anxious,Accept the Situation and Stay Normal,No,No,3
+18,Intermediate,Dhaka,Stay Normal,10-20,No,Sad or Anxious,You loss your calmness,No,Yes,3
+21,Hons / or equivalent,Dhaka,Stay Normal,30+,No,Sad or Anxious,Accept the Situation and Stay Normal,Yes,No,4
+18,Intermediate,Dhaka,"Stay Normal, Hurting Yourself",30+,No,Sad or Anxious,Accept the Situation and Stay Normal,Yes,No,4
+23,Hons / or equivalent,Dhaka,Shouting,10-20,No,Hopeless,Accept the Situation and Stay Normal,Yes,Yes,2
+21,Hons / or equivalent,Chattogram,Stay Normal,30+,No,Sad or Anxious,Accept the Situation and Stay Normal,Yes,No,3
+18,High School,Dhaka,Stay Normal,10-20,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,No,2
+21,Hons / or equivalent,Dhaka,"Abusing people around you, Yelling",10-20,No,Hopeless,You loss your calmness,No,No,2
+25,Hons / or equivalent,Dhaka,Stay Normal,30+,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,No,3
+18,Intermediate,Dhaka,Stay Normal,0-10,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,Yes,3
+23,Hons / or equivalent,Dhaka,"Yelling, Shouting, Hurting Yourself",20-30,No,Hopeless,You loss your calmness,No,Yes,1
+25,Hons / or equivalent,Dhaka,"Yelling, Hurting Yourself",30+,No,Hopeless,Accept the Situation and Stay Normal,Yes,Yes,3
+28,Masters / or equivalent,Dhaka,"Stay Normal, Shouting",0-10,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,No,4
+17,High School,Dhaka,Shouting,0-10,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,Yes,3
+25,Hons / or equivalent,Dhaka,Stay Normal,10-20,No,Hopeless,You loss your calmness,Yes,No,5
+19,Hons / or equivalent,Dhaka,"Stay Normal, Yelling, Shouting",10-20,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,No,4
+18,Intermediate,Dhaka,Abusing people around you,0-10,No,Sad or Anxious,Accept the Situation and Stay Normal,No,No,3
+32,Hons / or equivalent,Dhaka,"Breaking Stuffs / Prpperty Damage, Shouting, Hurting Yourself",30+,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,No,5
+24,Intermediate,Dhaka,Stay Normal,0-10,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,Yes,3
+20,Hons / or equivalent,Dhaka,Stay Normal,10-20,No,Hopeless,Accept the Situation and Stay Normal,Yes,Yes,4
+25,Hons / or equivalent,Barisal,"Stay Normal, Yelling, Shouting",0-10,No,Determined to better next time,Accept the Situation and Stay Normal,No,Yes,3
+23,Hons / or equivalent,Dhaka,Stay Normal,10-20,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,Yes,4
+22,Hons / or equivalent,Dhaka,Yelling,0-10,No,Determined to better next time,Accept the Situation and Stay Normal,No,Yes,5
+20,Intermediate,Khulna,"Stay Normal, Shouting",10-20,No,Determined to better next time,Accept the Situation and Stay Normal,No,No,3
+21,Hons / or equivalent,Dhaka,Stay Normal,0-10,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,No,4
+22,Hons / or equivalent,Dhaka,Stay Normal,20-30,Yes,Hopeless,You loss your calmness,No,No,4
+23,Hons / or equivalent,Dhaka,"Breaking Stuffs / Prpperty Damage, Shouting",0-10,No,Sad or Anxious,Accept the Situation and Stay Normal,Yes,No,4
+20,Hons / or equivalent,Dhaka,"Stay Normal, Hurting Yourself",0-10,No,Determined to better next time,You loss your calmness,Yes,Yes,4
+20,Hons / or equivalent,Dhaka,Stay Normal,10-20,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,No,4
+20,Hons / or equivalent,Dhaka,Stay Normal,10-20,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,No,4
+23,Hons / or equivalent,Dhaka,"Breaking Stuffs / Prpperty Damage, Shouting",0-10,No,Sad or Anxious,Accept the Situation and Stay Normal,Yes,No,4
+25,Hons / or equivalent,Dhaka,Yelling,20-30,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,No,3
+24,Hons / or equivalent,Rajshahi,Hurting Yourself,30+,No,Hopeless,Accept the Situation and Stay Normal,Yes,Yes,3
+11,High School,Dhaka,"Threatening, Abusing people around you, Hurting Animals",30+,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,No,5
+12,High School,Khulna,"Threatening, Breaking Stuffs / Prpperty Damage, Abusing people around you, Hurting Animals",30+,Yes,Determined to better next time,Accept the Situation and Stay Normal,Yes,No,5
+23,Hons / or equivalent,Dhaka,"Stay Normal, Yelling, Shouting",20-30,No,Sad or Anxious,Accept the Situation and Stay Normal,No,Yes,1
+26,Hons / or equivalent,Dhaka,Breaking Stuffs / Property Damage,10-20,No,Hopeless,You loss your calmness,Yes,Yes,3
+20,Hons / or equivalent,Khulna,"Stay Normal, Hurting Yourself",0-10,No,Sad or Anxious,Accept the Situation and Stay Normal,No,No,2
+22,Hons / or equivalent,Dhaka,Shouting,30+,No,Hopeless,Accept the Situation and Stay Normal,No,No,3
+25,Hons / or equivalent,Dhaka,Breaking Stuffs / Property Damage,0-10,No,Sad or Anxious,Accept the Situation and Stay Normal,No,Yes,3
+19,Intermediate,Rajshahi,Abusing people around you,0-10,No,Sad or Anxious,You loss your calmness,Yes,Yes,3
+25,Masters / or equivalent,Dhaka,Stay Normal,20-30,No,Determined to better next time,Accept the Situation and Stay Normal,No,No,1
+23,Hons / or equivalent,Dhaka,"Threatening, Breaking Stuffs / Property Damage, Abusing people around you, Yelling, Shouting, Hurting Yourself",20-30,No,Sad or Anxious,You loss your calmness,Yes,Yes,2
+24,Hons / or equivalent,Dhaka,Stay Normal,30+,No,Hopeless,Accept the Situation and Stay Normal,Yes,Yes,2
+25,Hons / or equivalent,Dhaka,"Threatening, Yelling, Shouting",10-20,No,Sad or Anxious,Accept the Situation and Stay Normal,No,Yes,3
+23,Hons / or equivalent,Dhaka,"Threatening, Stay Normal, Shouting",10-20,No,Sad or Anxious,Accept the Situation and Stay Normal,Yes,Yes,5
+22,Hons / or equivalent,Dhaka,Abusing people around you,0-10,No,Hopeless,You loss your calmness,No,No,4
+12,High School,Dhaka,Threatening,0-10,Yes,Hopeless,You loss your calmness,Yes,Yes,2
+18,Intermediate,Dhaka,Stay Normal,30+,No,Hopeless,Accept the Situation and Stay Normal,Yes,No,4
+20,Intermediate,Dhaka,Hurting Yourself,30+,No,Sad or Anxious,You loss your calmness,Yes,Yes,2
+17,Intermediate,Khulna,"Yelling, Shouting",0-10,No,Sad or Anxious,Accept the Situation and Stay Normal,Yes,No,3
+22,Hons / or equivalent,Dhaka,"Stay Normal, Yelling",0-10,No,Hopeless,You loss your calmness,Yes,No,3
+22,Hons / or equivalent,Dhaka,Stay Normal,0-10,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,No,4
+25,Masters / or equivalent,Dhaka,"Stay Normal, Yelling",10-20,No,Sad or Anxious,You loss your calmness,Yes,Yes,4
+22,Hons / or equivalent,Chattogram,Stay Normal,10-20,No,Sad or Anxious,Accept the Situation and Stay Normal,Yes,No,4
+22,Hons / or equivalent,Dhaka,Stay Normal,30+,No,Sad or Anxious,You loss your calmness,Yes,Yes,3
+19,High School,Dhaka,"Yelling, Shouting",0-10,No,Determined to better next time,You loss your calmness,Yes,Yes,3
+23,Hons / or equivalent,Chattogram,"Stay Normal, Shouting",0-10,No,Sad or Anxious,Accept the Situation and Stay Normal,Yes,No,4
+23,Hons / or equivalent,Dhaka,"Yelling, Shouting",0-10,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,No,3
+19,Intermediate,Dhaka,"Yelling, Shouting",10-20,No,Hopeless,Accept the Situation and Stay Normal,Yes,No,3
+23,Hons / or equivalent,Dhaka,Stay Normal,10-20,No,Hopeless,Accept the Situation and Stay Normal,No,No,4
+21,Hons / or equivalent,Dhaka,"Breaking Stuffs / Property Damage, Abusing people around you, Yelling, Shouting",0-10,No,Hopeless,Accept the Situation and Stay Normal,Yes,Yes,2
+24,Hons / or equivalent,Chattogram,"Yelling, Shouting",0-10,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,No,3
+22,Hons / or equivalent,Dhaka,Stay Normal,20-30,No,Sad or Anxious,You loss your calmness,Yes,No,3
+21,Hons / or equivalent,Dhaka,Stay Normal,20-30,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,Yes,3
+22,Hons / or equivalent,Dhaka,"Breaking Stuffs / Property Damage, Yelling, Hurting Animals, Hurting Yourself",10-20,No,Determined to better next time,Accept the Situation and Stay Normal,Yes,No,3

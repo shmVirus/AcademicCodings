@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">02P - Login Page</string>
+    <string name="loginPageTitle">Login Page by @shmVirus</string>
+    <string name="password">password</string>
+    <string name="loginButtonName">Log In</string>
+    <string name="emailHint">example@mail.io</string>
+</resources>

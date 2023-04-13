@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:textColor="@color/blue"
+    android:background="@color/teal"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/loginPage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/loginPageTitle"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:background="@color/teal"
+        android:textColor="@color/blue"
+        android:paddingBottom="10dp"
+        android:paddingTop="20dp" />
+
+    <EditText
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:textColor="@color/blue"
+        android:hint="@string/name" />
+
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:hint="@string/email"
+        android:textColor="@color/blue"
+        android:importantForAutofill="no" />
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPassword"
+        android:textColor="@color/blue"
+        android:hint="@string/password" />
+
+    <EditText
+        android:id="@+id/passwordConfirm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPassword"
+        android:textColor="@color/blue"
+        android:hint="@string/passwordConfirm" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+
+        <Button
+            android:id="@+id/loginButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/loginButton"
+            android:layout_gravity="center"
+            android:textColor="@color/blue"
+            android:background="@color/purple" />
+
+        <Button
+            android:id="@+id/cancelButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cancelButton"
+            android:layout_gravity="center"
+            android:textColor="@color/blue"
+            android:background="@color/orange" />
+    </LinearLayout>
+</LinearLayout>

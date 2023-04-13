@@ -1,0 +1,5 @@
+input = input("Comma Seprated Numbers: ")
+list = input.split(",")
+print("List: ", list)
+tuple = tuple(list)
+#print("Tuple: ", tuple)

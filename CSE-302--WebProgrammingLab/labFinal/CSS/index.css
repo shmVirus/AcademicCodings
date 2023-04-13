@@ -1,0 +1,51 @@
+#header {
+    text-align: center;
+    padding: 200px;
+    background-color: black;
+    color: white;
+}
+
+#rec {
+    text-align: center;
+    padding: 200px;
+}
+
+#foods {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    text-align: center;
+}
+
+#dt1, #dt2, #dt3, #d4 {
+    padding: 25px;
+    width: 100%;
+}
+
+#reserve {
+    padding: 50px;
+    width: 100%;
+    text-align: center;
+}
+#inputBox {
+    display: flex;
+    flex-direction: row;
+    display: inline-block;
+}
+
+#footer {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    padding: 10%;
+    margin: 1px;
+    row-gap: 50px;
+}
+
+#image {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+

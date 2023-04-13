@@ -1,0 +1,3 @@
+int a=25; //first
+int //second a=50;
+if (a==25) /*third*/ printf("Hello\n");
